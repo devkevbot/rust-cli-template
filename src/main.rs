@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("PROJECT BOOTSTRAP: Hello from boostrap!");
 }
